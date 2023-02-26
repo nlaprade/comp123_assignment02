@@ -1,0 +1,16 @@
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\bin\Debug\net5.0\COMP123_Assign02_New.exe
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\bin\Debug\net5.0\COMP123_Assign02_New.deps.json
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\bin\Debug\net5.0\COMP123_Assign02_New.runtimeconfig.json
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\bin\Debug\net5.0\COMP123_Assign02_New.runtimeconfig.dev.json
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\bin\Debug\net5.0\COMP123_Assign02_New.dll
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\bin\Debug\net5.0\ref\COMP123_Assign02_New.dll
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\bin\Debug\net5.0\COMP123_Assign02_New.pdb
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\obj\Debug\net5.0\COMP123_Assign02_New.csproj.AssemblyReference.cache
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\obj\Debug\net5.0\COMP123_Assign02_New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\obj\Debug\net5.0\COMP123_Assign02_New.AssemblyInfoInputs.cache
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\obj\Debug\net5.0\COMP123_Assign02_New.AssemblyInfo.cs
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\obj\Debug\net5.0\COMP123_Assign02_New.csproj.CoreCompileInputs.cache
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\obj\Debug\net5.0\COMP123_Assign02_New.dll
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\obj\Debug\net5.0\ref\COMP123_Assign02_New.dll
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\obj\Debug\net5.0\COMP123_Assign02_New.pdb
+C:\Users\lapra\source\repos\COMP123_Assign02_New\COMP123_Assign02_New\obj\Debug\net5.0\COMP123_Assign02_New.genruntimeconfig.cache
